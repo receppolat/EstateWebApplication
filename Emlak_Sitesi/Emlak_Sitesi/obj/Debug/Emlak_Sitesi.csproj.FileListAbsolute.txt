@@ -1,0 +1,168 @@
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.dll.config
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.pdb
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.exe
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.exe.config
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.rsp
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.exe
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.exe.config
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.rsp
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.AppContext.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Console.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.exe
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.exe.config
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.rsp
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csproj.CoreCompileInputs.cache
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csproj.CopyComplete
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.dll
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.pdb
+C:\Users\Recep\Desktop\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csprojAssemblyReference.cache
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.dll.config
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.pdb
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.exe
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.exe.config
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.rsp
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.exe
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.exe.config
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.rsp
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.AppContext.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Collections.Immutable.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Console.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Compression.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.FileSystem.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Pipes.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Reflection.Metadata.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.AccessControl.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Claims.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.ValueTuple.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XPath.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.exe
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.exe.config
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.rsp
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\VBCSCompiler.exe
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\VBCSCompiler.exe.config
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csprojAssemblyReference.cache
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csproj.CoreCompileInputs.cache
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csproj.CopyComplete
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.dll
+D:\184410029 Recep Polat\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.pdb
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.dll.config
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\Emlak_Sitesi.pdb
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.exe
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.exe.config
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csc.rsp
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.exe
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.exe.config
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\csi.rsp
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.AppContext.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Console.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.exe
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.exe.config
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\vbc.rsp
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.dll
+C:\Users\DESKTOP\Desktop\Derslerim\Web Applications\Emlak_Sitesi\Emlak_Sitesi\obj\Debug\Emlak_Sitesi.pdb

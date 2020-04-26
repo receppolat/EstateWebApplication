@@ -1,0 +1,43 @@
+.s_objeccts{
+    float:left;
+    margin:0px 20px 0px 20px;
+}
+.s_main{
+    height:200px;
+    border-radius:0px 0px 150px 150px;
+}
+.s_arabtn{
+    margin-left:400px;
+    width:200px;
+}
+.s_arabtnFam{
+    position:absolute;
+    margin-top:70px;
+}
+@media only screen and (max-width:1200px){
+    .s_arabtn{
+        width:100px;
+    }
+}
+@media only screen and (max-width:768px){
+    .s_main{
+        height:280px;
+    }
+    .s_arabtnFam{
+        margin-top:140px;
+        margin-left:-150px;
+    }
+}
+@media only screen and (max-width:498px){
+    .s_arabtnFam{
+         margin-top:210px;
+         margin-left:-245px;
+    }
+    .s_arabtn{
+        width:50px;
+    }
+    .s_main{
+        height:343px;
+        width:389px;
+    }
+}

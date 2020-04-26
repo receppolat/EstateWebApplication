@@ -1,0 +1,341 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9B52EE07-AC24-407C-854C-B4B5C25856E1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Emlak_Sitesi</RootNamespace>
+    <AssemblyName>Emlak_Sitesi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="admin.aspx" />
+    <Content Include="adminduyurular.aspx" />
+    <Content Include="adminkullanicilar.aspx" />
+    <Content Include="adminozelislemler.aspx" />
+    <Content Include="arkaplan.png" />
+    <Content Include="assets\demo\chart-area-demo.js" />
+    <Content Include="assets\demo\chart-bar-demo.js" />
+    <Content Include="assets\demo\chart-pie-demo.js" />
+    <Content Include="assets\demo\datatables-demo.js" />
+    <Content Include="assets\img\error-404-monochrome.svg" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\classy-nav.min.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\jquery-ui.min.css" />
+    <Content Include="css\kutuphane.css" />
+    <Content Include="css\magnific-popup.css" />
+    <Content Include="css\nice-select.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\themify-icons.css" />
+    <Content Include="duyuruayrinti.aspx" />
+    <Content Include="duyurular.aspx" />
+    <Content Include="evler.aspx" />
+    <Content Include="evlerara.aspx" />
+    <Content Include="evozelligi.aspx" />
+    <Content Include="fonts\classy.svg" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\themify.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="gray.png" />
+    <Content Include="harita.aspx" />
+    <Content Include="img\bg-img\about.jpg" />
+    <Content Include="img\bg-img\cta.jpg" />
+    <Content Include="img\bg-img\editor.jpg" />
+    <Content Include="img\bg-img\fea-product.jpg" />
+    <Content Include="img\bg-img\feature1.jpg" />
+    <Content Include="img\bg-img\feature2.jpg" />
+    <Content Include="img\bg-img\feature3.jpg" />
+    <Content Include="img\bg-img\feature4.jpg" />
+    <Content Include="img\bg-img\feature5.jpg" />
+    <Content Include="img\bg-img\feature6.jpg" />
+    <Content Include="img\bg-img\feature7.jpg" />
+    <Content Include="img\bg-img\feature8.jpg" />
+    <Content Include="img\bg-img\feature9.jpg" />
+    <Content Include="img\bg-img\footer.jpg" />
+    <Content Include="img\bg-img\hero1.jpg" />
+    <Content Include="img\bg-img\hero2.jpg" />
+    <Content Include="img\bg-img\hero3.jpg" />
+    <Content Include="img\bg-img\hero4.jpg" />
+    <Content Include="img\bg-img\hero5.jpg" />
+    <Content Include="img\bg-img\listing.jpg" />
+    <Content Include="img\bg-img\team1.jpg" />
+    <Content Include="img\bg-img\team2.jpg" />
+    <Content Include="img\bg-img\team3.jpg" />
+    <Content Include="img\blog-img\blog1.jpg" />
+    <Content Include="img\blog-img\blog2.jpg" />
+    <Content Include="img\blog-img\blog3.jpg" />
+    <Content Include="img\blog-img\c-1.jpg" />
+    <Content Include="img\blog-img\c-2.jpg" />
+    <Content Include="img\blog-img\c-3.jpg" />
+    <Content Include="img\core-img\logo.PNG" />
+    <Content Include="img\icons\bathtub.png" />
+    <Content Include="img\icons\envelope.png" />
+    <Content Include="img\icons\flat.png" />
+    <Content Include="img\icons\garage.png" />
+    <Content Include="img\icons\home3.png" />
+    <Content Include="img\icons\house1.png" />
+    <Content Include="img\icons\house2.png" />
+    <Content Include="img\icons\location.png" />
+    <Content Include="img\icons\new.png" />
+    <Content Include="img\icons\new2.png" />
+    <Content Include="img\icons\phone-call.png" />
+    <Content Include="img\icons\prize.png" />
+    <Content Include="img\icons\prize2.png" />
+    <Content Include="img\icons\rent.png" />
+    <Content Include="img\icons\signature.png" />
+    <Content Include="img\icons\space.png" />
+    <Content Include="index.aspx" />
+    <Content Include="jquery-2.2.3.js" />
+    <Content Include="js\active.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\classy-nav.min.js" />
+    <Content Include="js\jquery-ui.min.js" />
+    <Content Include="js\jquery\jquery-2.2.4.min.js" />
+    <Content Include="js\map-active.js" />
+    <Content Include="js\plugins.js" />
+    <Content Include="js\popper.min.js" />
+    <Content Include="odev.mdb" />
+    <Content Include="password.png" />
+    <Content Include="sayfa.aspx" />
+    <Content Include="style.css" />
+    <Content Include="user.png" />
+    <Content Include="uye_giris.aspx" />
+    <Content Include="uye_kayit.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.aspx.cs">
+      <DependentUpon>admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin.aspx.designer.cs">
+      <DependentUpon>admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminduyurular.aspx.cs">
+      <DependentUpon>adminduyurular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminduyurular.aspx.designer.cs">
+      <DependentUpon>adminduyurular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminkullanicilar.aspx.cs">
+      <DependentUpon>adminkullanicilar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminkullanicilar.aspx.designer.cs">
+      <DependentUpon>adminkullanicilar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminozelislemler.aspx.cs">
+      <DependentUpon>adminozelislemler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminozelislemler.aspx.designer.cs">
+      <DependentUpon>adminozelislemler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="duyuruayrinti.aspx.cs">
+      <DependentUpon>duyuruayrinti.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="duyuruayrinti.aspx.designer.cs">
+      <DependentUpon>duyuruayrinti.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="duyurular.aspx.cs">
+      <DependentUpon>duyurular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="duyurular.aspx.designer.cs">
+      <DependentUpon>duyurular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="evler.aspx.cs">
+      <DependentUpon>evler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="evler.aspx.designer.cs">
+      <DependentUpon>evler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="evlerara.aspx.cs">
+      <DependentUpon>evlerara.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="evlerara.aspx.designer.cs">
+      <DependentUpon>evlerara.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="evozelligi.aspx.cs">
+      <DependentUpon>evozelligi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="evozelligi.aspx.designer.cs">
+      <DependentUpon>evozelligi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="harita.aspx.cs">
+      <DependentUpon>harita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="harita.aspx.designer.cs">
+      <DependentUpon>harita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sayfa.aspx.cs">
+      <DependentUpon>sayfa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sayfa.aspx.designer.cs">
+      <DependentUpon>sayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="uye_giris.aspx.cs">
+      <DependentUpon>uye_giris.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="uye_giris.aspx.designer.cs">
+      <DependentUpon>uye_giris.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="uye_kayit.aspx.cs">
+      <DependentUpon>uye_kayit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="uye_kayit.aspx.designer.cs">
+      <DependentUpon>uye_kayit.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".sass-cache\c271f55aaaf7c7f11c38a51797984cacc713c712\style.scssc" />
+    <Content Include=".sass-cache\c271f55aaaf7c7f11c38a51797984cacc713c712\_mixin.scssc" />
+    <Content Include=".sass-cache\c271f55aaaf7c7f11c38a51797984cacc713c712\_responsive.scssc" />
+    <Content Include=".sass-cache\c271f55aaaf7c7f11c38a51797984cacc713c712\_themecolor.scssc" />
+    <Content Include=".sass-cache\c271f55aaaf7c7f11c38a51797984cacc713c712\_theme_color.scssc" />
+    <Content Include=".sass-cache\c271f55aaaf7c7f11c38a51797984cacc713c712\_variables.scssc" />
+    <Content Include="fonts\classy.eot" />
+    <Content Include="fonts\classy.ttf" />
+    <Content Include="fonts\classy.woff" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\themify.eot" />
+    <Content Include="fonts\themify.ttf" />
+    <Content Include="fonts\themify.woff" />
+    <None Include="packages.config" />
+    <Content Include="scss\style.scss" />
+    <Content Include="scss\_mixin.scss" />
+    <Content Include="scss\_responsive.scss" />
+    <Content Include="scss\_theme_color.scss" />
+    <Content Include="scss\_variables.scss" />
+    <Content Include="style.css.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55285</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:55285/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Bu proje bu bilgisayarda olmayan NuGet paketlerine başvuru yapıyor. Bunları indirmek için NuGet Paket Geri Yükleme'yi kullanın. Daha fazla bilgi için, bkz. http://go.microsoft.com/fwlink/?LinkID=322105. Eksik dosya: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
